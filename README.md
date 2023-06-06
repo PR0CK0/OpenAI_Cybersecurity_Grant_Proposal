@@ -6,11 +6,11 @@ Principal author: Tyler Procko
 ML expert: Timothy Elvira
 Advisor: Omar Ochoa
 
-Expected completion:
-01/31/2024
+Expected completion: 01/31/2024
 
 Requested funding:
-Direct monetary funding should not be needed; but GPT credits will be. With the price of GPT-4, we would request $10,000 worth of API credits. 
+* Direct monetary funding should not be needed; but GPT credits will be.
+* With the price of GPT-4, we would request $10,000 worth of API credits. 
 
 Justification of funding:
 The funds (token credits) will be directly used in the project with GPT-4. The requested funding is the stated maximum increment, because of the price of GPT-4, in addition to the fact that the documents being parsed often exceed 50 pages in length, so API credits will be expended rapidly. If OpenAI's advancement allows it, we would also like to access GPT-4's 32k context model, to allow better ingestion of large standards documents; this would accelerate token use considerably. So saying, we request the maximum increment of $10,000 worth of API credits.
