@@ -1,2 +1,8 @@
-# OpenAI_Cybersecurity_Grant_Proposal
-Compliant cybersec reqs for SW w/ GPT
+# OpenAI Cybersecurity Grant Proposal
+Repo for all docs.
+
+```yaml
+Principal author: Tyler Procko
+ML expert: Timothy Elvira
+Advisor: Omar Ochoa
+```
