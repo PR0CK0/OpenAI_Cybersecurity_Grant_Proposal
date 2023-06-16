@@ -1,7 +1,8 @@
 # OpenAI Cybersecurity Grant Proposal
 Repo for all docs pertaining to our proposal for [OpenAI's cybersecurity grant program](https://openai.com/blog/openai-cybersecurity-grant-program), *From Legacy to Compliant: ChatGPT's Role in Aligning Cybersecurity Requirements to ISO Standards*.
 
-[Proposal paper here](PROCKOT_ELVIRAT_OCHOAO_OPENAI_CYBERSEC_PROPOSAL.pdf)
+## Proposal Paper
+[Proposal paper here 😊](PROCKOT_ELVIRAT_OCHOAO_OPENAI_CYBERSEC_PROPOSAL.pdf)
 
 ```yaml
 Principal author: Tyler Procko
